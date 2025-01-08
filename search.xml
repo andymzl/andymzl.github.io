@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>blog1</title>
+      <link href="/posts/6cc9eacc.html"/>
+      <url>/posts/6cc9eacc.html</url>
+      
+        <content type="html"><![CDATA[<h1>测试1</h1><p>使用 cmd命令行配置hexo</p><p><img src="../assets/image-20250108112810008.png" alt="image-20250108112810008"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown语法与外挂标签写法汇总</title>
       <link href="/posts/2013454d.html"/>
       <url>/posts/2013454d.html</url>
