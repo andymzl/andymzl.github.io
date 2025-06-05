@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>data_structure1</title>
+      <link href="/posts/c59df3f.html"/>
+      <url>/posts/c59df3f.html</url>
+      
+        <content type="html"><![CDATA[<h1>数组</h1><h2 id="1-数组介绍">1.数组介绍</h2><p><img src="../assets/image-20250411160224476.png" alt="image-20250411160224476"></p><p>数组 不能动态的改变存储容量，是数组的一个非常大的限制，开发中希望实现动态数组，动态改变数组容量。</p><blockquote><p>动态数组 常用接口，提供给其他类来进行使用</p></blockquote><p><img src="../assets/image-20250411163832949.png" alt="image-20250411163832949"></p><p>你好 做一个测试</p><p><img src="../assets/image-20250605222914141.png" alt="image-20250605222914141"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> data structure </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> data structure </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>deepseek初探</title>
       <link href="/posts/bb7786eb.html"/>
       <url>/posts/bb7786eb.html</url>

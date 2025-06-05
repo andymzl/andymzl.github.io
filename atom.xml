@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2025-02-22T06:11:13.639Z</updated>
+  <updated>2025-06-05T14:29:44.525Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>data_structure1</title>
+    <link href="https://www.fomal.cc/posts/c59df3f.html"/>
+    <id>https://www.fomal.cc/posts/c59df3f.html</id>
+    <published>2025-04-11T07:59:32.000Z</published>
+    <updated>2025-06-05T14:29:44.525Z</updated>
+    
+    <content type="html"><![CDATA[<h1>数组</h1><h2 id="1-数组介绍">1.数组介绍</h2><p><img src="../assets/image-20250411160224476.png" alt="image-20250411160224476"></p><p>数组 不能动态的改变存储容量，是数组的一个非常大的限制，开发中希望实现动态数组，动态改变数组容量。</p><blockquote><p>动态数组 常用接口，提供给其他类来进行使用</p></blockquote><p><img src="../assets/image-20250411163832949.png" alt="image-20250411163832949"></p><p>你好 做一个测试</p><p><img src="../assets/image-20250605222914141.png" alt="image-20250605222914141"></p>]]></content>
+    
+    
+    <summary type="html">数据结构数组章节</summary>
+    
+    
+    
+    <category term="data structure" scheme="https://www.fomal.cc/categories/data-structure/"/>
+    
+    
+    <category term="data structure" scheme="https://www.fomal.cc/tags/data-structure/"/>
+    
+  </entry>
   
   <entry>
     <title>deepseek初探</title>
